@@ -9,8 +9,8 @@
 
 #Como inicialr o projeto?
 para fazer essa tarefa tao dificil é preciso que..
-1-baixe e extraia o arquivo
-2-verifiquei se a pasta "docs" esta na pasta dentro de "pintersoo"
-3-abra a pasta "docs" e seja feliz :)
+##1-baixe e extraia o arquivo
+##2-verifiquei se a pasta "docs" esta na pasta dentro de "pintersoo"
+##3-abra a pasta "docs" e seja feliz :)
 ##Caso queira modificar o arquivo a seu gosto
-1- abra o vsc e abra o floder "pintersoo" ja estraido
+##1- abra o vsc e abra o floder "pintersoo" ja estraido
